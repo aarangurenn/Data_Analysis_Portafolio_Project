@@ -16,8 +16,10 @@ Technology: MYSQL
 
 ACADEMIC BACKGROUND:
 
-Universidad Mundial, La Paz Baja California Sur 
+Universidad Mundial, La Paz Baja California Sur:
+
 • Bachelor’s degree in architecture (2014 – 2017) 
+
 • Master’s degree in marketing (2017 – 2019)
 
 
