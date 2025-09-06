@@ -26,4 +26,5 @@ Universidad Mundial, La Paz Baja California Sur:
 Contacts:
 
 LinkedIn: www.linkedin.com/in/angel-torres-aranguren
+
 Email: aarangurenn15@gmail.com
