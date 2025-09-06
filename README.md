@@ -3,14 +3,37 @@ Hi there! I'm Angel, a bilingual industrial drafter turned aspiring data analyst
 
 -COVID 19 DATA EXPLORATION 
 
-Description: The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading and data cleaning
-Skills: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Converting Data Types
+Description: The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: 
+
+-- Total cases vs total deaths
+
+-- Likelihood of dying in your country
+
+-- Looking at total cases vs population 
+
+-- Looking at countries with highest infection rates compare to poulation 
+
+-- Showing the highest counties death cout per population 
+
+
 
 Technology: MYSQL
 
 -Nashville Housing Data Cleaning
 
-Description: The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
+Description: The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: 
+
+-- Update table where the property adreess was empty
+
+-- Breaking property adreess into individual columns (adress, city, state)
+
+-- Breaking Owner address into individual columns (adress, city, state)
+
+-- Change 'Y' and 'N' to YES and NO in 'Sold as Vacant' field in order to be uniform
+
+-- Removed duplicates
+
+-- Delete unused data
 
 Technology: MYSQL
 
