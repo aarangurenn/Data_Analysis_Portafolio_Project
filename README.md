@@ -34,7 +34,6 @@ Description: The dataset contains a list of houses that have been sold in Nashvi
 
 •	Delete unused data
 
-
 Technology: MYSQL
 
 ACADEMIC BACKGROUND:
