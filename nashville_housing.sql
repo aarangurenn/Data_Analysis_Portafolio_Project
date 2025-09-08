@@ -2,7 +2,7 @@ SELECT *
 FROM portafolio_project.nashville_housing
 ;
 
--- update table where the property adreess was empty
+-- update table where the property address was empty
 
 SELECT *
 FROM portafolio_project.nashville_housing
@@ -22,7 +22,7 @@ set nh.PropertyAddress = if(nh.PropertyAddress, '', nh2.PropertyAddress)
 where nh.PropertyAddress = ''
 ;
 
--- breaking property adreess into individual columns (adress, city, state)
+-- breaking property adreess into individual columns (address, city, state)
 
 SELECT 
 	SUBSTRING_INDEX(PropertyAddress,'.', 1) AS Adress, 
@@ -49,7 +49,7 @@ FROM nashville_housing
 
 
 
--- breaking Owner address into individual columns (adress, city, state)
+-- breaking Owner address into individual columns (address, city, state)
 
 select OwnerAddress
 FROM nashville_housing
