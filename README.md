@@ -5,16 +5,15 @@ Hi there! I'm Angel, a industrial drafter/architect turned aspiring data analyst
 
 Description: The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: 
 
--- Total cases vs total deaths
+•	Total cases vs total deaths
 
--- Likelihood of dying in your country
+•	Likelihood of dying in your country
 
--- Looking at total cases vs population 
+•	Looking at total cases vs population
 
--- Looking at countries with highest infection rates compare to poulation 
+•	Looking at countries with highest infection rates compared to population
 
--- Showing the highest counties death cout per population 
-
+•	showing the highest counties death count per population
 
 
 Technology: MYSQL
@@ -23,17 +22,18 @@ Technology: MYSQL
 
 Description: The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: 
 
--- Update table where the property adreess was empty
+•	Update table where the property address was empty
 
--- Breaking property adreess into individual columns (adress, city, state)
+•	Breaking property address into individual columns (address, city, state)
 
--- Breaking Owner address into individual columns (adress, city, state)
+•	Breaking Owner address into individual columns (address, city, state)
 
--- Change 'Y' and 'N' to YES and NO in 'Sold as Vacant' field in order to be uniform
+•	Change 'Y' and 'N' to YES and NO in 'Sold as Vacant' field to be uniform
 
--- Removed duplicates
+•	Removed duplicates
 
--- Delete unused data
+•	Delete unused data
+
 
 Technology: MYSQL
 
